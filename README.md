@@ -1,8 +1,8 @@
 # Engenharia de Software I (20242)
 # Nome dos integrantes do grupo:
-1) Fulano
-2) Sicrano
-3) Beltrano
+1) Willian Stieven
+2) Erik Stumpf Ogliari
+3) Lucas Eduardo Reckziegel
 
 ## Casos de uso do sistema de reserva de passagens aéreas
 Tabelas com a descrição dos casos de uso
