@@ -10,13 +10,16 @@ Tabelas com a descrição dos casos de uso
 
 ## Diagrama de casos de uso
 Inserir nesta posição o diagrama de casos de uso em formato JPG.
-![Captura de tela 2024-11-25 200659](https://github.com/user-attachments/assets/2eea115c-4cb9-4471-89d1-6f6911831d17)
-![Captura de tela 2024-11-25 200645](https://github.com/user-attachments/assets/40774485-9992-4fc8-a010-86fa9c8aa001)
-![Captura de tela 2024-11-25 200633](https://github.com/user-attachments/assets/6f07ff1b-e492-461a-a87c-0157532e6b37)
-![Captura de tela 2024-11-25 200623](https://github.com/user-attachments/assets/7f8d5ecc-eecf-4054-9797-bc4ddfbf9c78)
-![Captura de tela 2024-11-25 200614](https://github.com/user-attachments/assets/670284be-42a1-40f0-aa9f-8adcc6c0b7ae)
-![Captura de tela 2024-11-25 200601](https://github.com/user-attachments/assets/c8fbcd15-4c4e-48cc-b1f5-127436ea781a)
+![Captura de tela 2024-11-25 202729](https://github.com/user-attachments/assets/8378b9fe-9cdb-471e-9ea0-eb73a9e1209a)
+![Captura de tela 2024-11-25 202751](https://github.com/user-attachments/assets/6e0ff3a4-63b2-4c2e-9496-f8d70f6559be)
+![Captura de tela 2024-11-25 202807](https://github.com/user-attachments/assets/8cb92bf3-32ea-4751-9472-b9e920240b3d)
 ![Captura de tela 2024-11-25 200523](https://github.com/user-attachments/assets/91cba109-ba10-4842-98b8-5e877bc09ee2)
+![Captura de tela 2024-11-25 200601](https://github.com/user-attachments/assets/c8fbcd15-4c4e-48cc-b1f5-127436ea781a)
+![Captura de tela 2024-11-25 200614](https://github.com/user-attachments/assets/670284be-42a1-40f0-aa9f-8adcc6c0b7ae)
+![Captura de tela 2024-11-25 200623](https://github.com/user-attachments/assets/7f8d5ecc-eecf-4054-9797-bc4ddfbf9c78)
+![Captura de tela 2024-11-25 200633](https://github.com/user-attachments/assets/6f07ff1b-e492-461a-a87c-0157532e6b37)
+![Captura de tela 2024-11-25 200645](https://github.com/user-attachments/assets/40774485-9992-4fc8-a010-86fa9c8aa001)
+![Captura de tela 2024-11-25 200659](https://github.com/user-attachments/assets/2eea115c-4cb9-4471-89d1-6f6911831d17)
 
 
 ## Modelo de Domínio
