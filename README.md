@@ -6,11 +6,18 @@
 
 ## Casos de uso do sistema de reserva de passagens aéreas
 Tabelas com a descrição dos casos de uso
-![image](https://github.com/user-attachments/assets/41c6f615-98e4-44f5-8d5e-d22480685385)
+
 
 ## Diagrama de casos de uso
 Inserir nesta posição o diagrama de casos de uso em formato JPG.
-![image](https://github.com/user-attachments/assets/c5d06f7e-5ebf-4514-92a8-298d01401226)
+![Captura de tela 2024-11-25 200659](https://github.com/user-attachments/assets/2eea115c-4cb9-4471-89d1-6f6911831d17)
+![Captura de tela 2024-11-25 200645](https://github.com/user-attachments/assets/40774485-9992-4fc8-a010-86fa9c8aa001)
+![Captura de tela 2024-11-25 200633](https://github.com/user-attachments/assets/6f07ff1b-e492-461a-a87c-0157532e6b37)
+![Captura de tela 2024-11-25 200623](https://github.com/user-attachments/assets/7f8d5ecc-eecf-4054-9797-bc4ddfbf9c78)
+![Captura de tela 2024-11-25 200614](https://github.com/user-attachments/assets/670284be-42a1-40f0-aa9f-8adcc6c0b7ae)
+![Captura de tela 2024-11-25 200601](https://github.com/user-attachments/assets/c8fbcd15-4c4e-48cc-b1f5-127436ea781a)
+![Captura de tela 2024-11-25 200523](https://github.com/user-attachments/assets/91cba109-ba10-4842-98b8-5e877bc09ee2)
+
 
 ## Modelo de Domínio
 Inserir nesta posição o modelo de domínio em formato JPG.
