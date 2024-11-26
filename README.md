@@ -6,7 +6,8 @@
 
 ## Casos de uso do sistema de reserva de passagens aéreas
 Tabelas com a descrição dos casos de uso
-![image](https://github.com/user-attachments/assets/69ea5837-1058-4c77-b4fd-8faa98eb8f34)
+![image](https://github.com/user-attachments/assets/b6c46d0a-141a-48ab-b053-44d99981daa9)
+
 
 
 ## Diagrama de casos de uso
