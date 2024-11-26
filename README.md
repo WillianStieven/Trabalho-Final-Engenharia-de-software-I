@@ -9,6 +9,9 @@ Tabelas com a descrição dos casos de uso
 ![image](https://github.com/user-attachments/assets/b6c46d0a-141a-48ab-b053-44d99981daa9)
 ![image](https://github.com/user-attachments/assets/eabed830-99ff-4229-b713-de44702de88e)
 ![image](https://github.com/user-attachments/assets/20fdbc29-4678-4b64-8795-d3a4124dfb73)
+![image](https://github.com/user-attachments/assets/fe79051a-41c0-45d2-8cea-548a4d8dd9ee)
+![image](https://github.com/user-attachments/assets/fff60cef-f9a4-4c05-8807-c7c7dc2ef328)
+
 
 
 
