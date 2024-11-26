@@ -12,12 +12,9 @@ Tabelas com a descrição dos casos de uso
 ![image](https://github.com/user-attachments/assets/fe79051a-41c0-45d2-8cea-548a4d8dd9ee)
 ![image](https://github.com/user-attachments/assets/fff60cef-f9a4-4c05-8807-c7c7dc2ef328)
 
-
-
-
-
 ## Diagrama de casos de uso
 Inserir nesta posição o diagrama de casos de uso em formato JPG.
+![Diagrama To3(1)](https://github.com/user-attachments/assets/3caba4fd-41f7-42bf-8e81-6ae2bdc2d2b3)
 
 
 
