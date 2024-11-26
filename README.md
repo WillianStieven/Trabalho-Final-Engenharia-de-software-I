@@ -13,18 +13,13 @@ Tabelas com a descrição dos casos de uso
 ![image](https://github.com/user-attachments/assets/fff60cef-f9a4-4c05-8807-c7c7dc2ef328)
 
 ## Diagrama de casos de uso
-Inserir nesta posição o diagrama de casos de uso em formato JPG.
 ![Diagrama To3(1)](https://github.com/user-attachments/assets/3caba4fd-41f7-42bf-8e81-6ae2bdc2d2b3)
 
-
-
 ## Modelo de Domínio
-Inserir nesta posição o modelo de domínio em formato JPG.
-![image](https://github.com/user-attachments/assets/52fb0710-b1e1-4c2d-bd71-c4e09b8535fd)
+![To3Eng(1)](https://github.com/user-attachments/assets/4727bdc0-3191-4ca7-9764-5ba0c65abe99)
 
 ## Diagrama de Atividades
-Inserir nesta posição o diagrama de atividades em formato JPG.
-![image](https://github.com/user-attachments/assets/e18391d4-530b-4012-9952-1f0357782732)
+![image](https://github.com/user-attachments/assets/91f1f836-3f75-4caf-a1f1-ed739b10dbd4)
 
 ## Diagrama de Classes de Implementação
  Inserir nesta posição o diagrama de classes de Implementação em formato JPG.
