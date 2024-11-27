@@ -22,7 +22,4 @@ Tabelas com a descrição dos casos de uso
 ![image](https://github.com/user-attachments/assets/91f1f836-3f75-4caf-a1f1-ed739b10dbd4)
 
 ## Diagrama de Classes de Implementação
- Inserir nesta posição o diagrama de classes de Implementação em formato JPG.
-![image](https://github.com/user-attachments/assets/501e4f67-2f1e-402b-b54e-44956731630a)
-
-![image](https://github.com/user-attachments/assets/9041d4c8-7ec5-47c7-a285-ebd9906ca79e)
+![diagrama de implementação(1)](https://github.com/user-attachments/assets/d3064000-166d-4fa8-ac8f-f898a8b92ca6)
