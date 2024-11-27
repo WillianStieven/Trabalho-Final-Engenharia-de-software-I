@@ -1,6 +1,6 @@
 # Engenharia de Software I (20242)
 # Nome dos integrantes do grupo:
-1) Willian Stieven
+1) oi
 2) Erik Stumpf Ogliari
 3) Lucas Eduardo Reckziegel
 
