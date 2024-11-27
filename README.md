@@ -1,7 +1,7 @@
 # Engenharia de Software I (20242)
 # Nome dos integrantes do grupo:
 1) Willian Stieven
-2) Erik Stumpf Ogliari
+2) alteracao
 3) Lucas Eduardo Reckziegel
 
 ## Casos de uso do sistema de reserva de passagens aéreas
