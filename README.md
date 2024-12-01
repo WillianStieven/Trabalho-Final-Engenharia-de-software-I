@@ -22,5 +22,6 @@ Tabelas com a descrição dos casos de uso
 ![image](https://github.com/user-attachments/assets/91f1f836-3f75-4caf-a1f1-ed739b10dbd4)
 
 ## Diagrama de Classes de Implementação
-![diagrama de implementação(2)](https://github.com/user-attachments/assets/ea6bc72e-7ad2-41e1-9cec-e3e44bbf3fc6)
+![diagrama de implementação(3)](https://github.com/user-attachments/assets/ee517dbc-3c81-4a40-bf17-da91de9a38c8)
+
 
