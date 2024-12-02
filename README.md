@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/200755e9-6160-4d9c-9b9b-952658e34a32)# Engenharia de Software I (20242)
 # Nome dos integrantes do grupo:
 1) Willian Stieven
 2) Erik Stumpf Ogliari.
