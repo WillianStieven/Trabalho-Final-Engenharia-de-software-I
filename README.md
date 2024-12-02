@@ -12,7 +12,7 @@ Tabelas com a descrição dos casos de uso
 ![image](https://github.com/user-attachments/assets/fff60cef-f9a4-4c05-8807-c7c7dc2ef328)
 
 ## Diagrama de casos de uso
-![Diagrama To3](https://github.com/user-attachments/assets/b5ce0710-1b38-4fa6-a656-630833517321)
+![Diagrama To3](https://github.com/user-attachments/assets/0b28e870-ecd9-427c-8ea8-e8138de9d726)
 
 ## Diagrama de Atividades
 ![image](https://github.com/user-attachments/assets/91f1f836-3f75-4caf-a1f1-ed739b10dbd4)
