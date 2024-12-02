@@ -1,4 +1,4 @@
-# Engenharia de Software I (20242)
+![image](https://github.com/user-attachments/assets/200755e9-6160-4d9c-9b9b-952658e34a32)# Engenharia de Software I (20242)
 # Nome dos integrantes do grupo:
 1) Willian Stieven
 2) Erik Stumpf Ogliari.
@@ -15,14 +15,14 @@ Tabelas com a descrição dos casos de uso
 ## Diagrama de casos de uso
 ![Diagrama To3(1)](https://github.com/user-attachments/assets/3caba4fd-41f7-42bf-8e81-6ae2bdc2d2b3)
 
-## Modelo de Domínio
-![To3Eng(1)](https://github.com/user-attachments/assets/4727bdc0-3191-4ca7-9764-5ba0c65abe99)
-
 ## Diagrama de Atividades
 ![image](https://github.com/user-attachments/assets/91f1f836-3f75-4caf-a1f1-ed739b10dbd4)
+
+## Modelo de Domínio
+![To3Eng(3)](https://github.com/user-attachments/assets/31df0a7c-4b51-4f4f-a4cd-cb50dfb61b1f)
 
 ## Diagrama de Classes de Implementação
 ![diagrama de implementação(3)](https://github.com/user-attachments/assets/ee517dbc-3c81-4a40-bf17-da91de9a38c8)
 
 
-![image](https://github.com/user-attachments/assets/3aaf0b9d-c75c-4184-84ce-8ec067b5b136)
+
