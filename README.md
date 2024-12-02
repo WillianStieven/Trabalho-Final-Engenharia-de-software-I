@@ -16,9 +16,6 @@ Tabelas com a descrição dos casos de uso
 
 ## Diagrama de Atividades
 ![image](https://github.com/user-attachments/assets/91f1f836-3f75-4caf-a1f1-ed739b10dbd4)
-![image](https://github.com/user-attachments/assets/07ef4c42-c22a-4d46-9c1b-3b9febbf8272)
-
-
 
 ## Modelo de Domínio
 ![To3Eng(3)](https://github.com/user-attachments/assets/31df0a7c-4b51-4f4f-a4cd-cb50dfb61b1f)
