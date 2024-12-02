@@ -25,3 +25,4 @@ Tabelas com a descrição dos casos de uso
 ![diagrama de implementação(3)](https://github.com/user-attachments/assets/ee517dbc-3c81-4a40-bf17-da91de9a38c8)
 
 
+![image](https://github.com/user-attachments/assets/3aaf0b9d-c75c-4184-84ce-8ec067b5b136)
